@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 # Portfolio Web - Instituto Proz Educação - Projeto integrador
 
+>>>>>>> ba85e5ac000f13b8104e1e002eae341ee34f2091
 Bem-vindo ao nosso projeto de website de portfólio! Este repositório contém o código-fonte do site de portfólio dos integrantes do curso "Fundamentos em HTML e CSS" oferecido pelo Instituto Proz Educação. Nosso grupo é composto por Bárbara, Adalberto e Fabiana
 
 🚀 [Link para o site de demonstração](#) - Adicione o link para o site de demonstração quando estiver disponível.
@@ -43,3 +46,7 @@ Se você deseja contribuir para o nosso projeto, siga estas etapas:
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+<<<<<<< HEAD
+
+=======
+>>>>>>> ba85e5ac000f13b8104e1e002eae341ee34f2091
