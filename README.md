@@ -1,6 +1,6 @@
 Bem-vindo ao nosso projeto de website de portfólio! Este repositório contém o código-fonte do site de portfólio dos integrantes do curso "Fundamentos em HTML e CSS" oferecido pelo Instituto Proz Educação. Nosso grupo é composto por Bárbara, Adalberto e Fabiana
 
-🚀 [Link para o site de demonstração](#) - Adicione o link para o site de demonstração quando estiver disponível.
+🚀 [[Link para o site de demonstração](https://master--glistening-fox-f86fcb.netlify.app/)](#) - Adicione o link para o site de demonstração quando estiver disponível.
 
 ## Tecnologias Utilizadas
 
