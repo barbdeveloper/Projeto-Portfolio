@@ -3,7 +3,7 @@ O Website consiste em criar uma espécie de portal de portfólios, aonde pequena
 
 Este repositório contém o código-fonte do site de portfólio dos integrantes do curso "Fundamentos em HTML e CSS" oferecido pelo Instituto Proz Educação. 
 
-🚀 [[DEPLOY: Link para a demonstração]((https://devchoice.netlify.app/))] 
+🚀 Deploy: https://devchoice.netlify.app/
 
 ## Tecnologias Utilizadas
 - **HTML:** Utilizamos HTML para criar a estrutura do site, incluindo cabeçalhos, seções, imagens e links.
